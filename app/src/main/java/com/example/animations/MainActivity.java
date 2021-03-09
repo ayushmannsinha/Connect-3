@@ -84,8 +84,8 @@ public class MainActivity extends AppCompatActivity {
 
                     winnerTextView.setText(winner + " has won !!");
 
-                    playAgain.animate().translationXBy(1000).setDuration(1500);
-                    winnerTextView.animate().translationXBy(1000).setDuration(1500);
+                    playAgain.animate().translationXBy(1000).rotationBy(1800).setDuration(1500);
+                    winnerTextView.animate().translationXBy(1000).rotationBy(1800).setDuration(1500);
 
                 }
             }
