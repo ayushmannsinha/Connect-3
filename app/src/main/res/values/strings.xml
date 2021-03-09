@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="checker_1">Checker_1</string>
+    <string name="checker_2">Checker_2</string>
+    <string name="this_is_a_cat">/This is a cat</string>
+    <string name="this_is_another_cat">This is another Cat !!</string>
+    <string name="play_again">Play Again !!</string>
+    <string name="Connect_3">Connect 3</string>
+    <string name="textview">TextView</string>
+</resources>
